@@ -1,0 +1,6 @@
+{
+  "name": "LifeLink",
+  "description": "Blood Availability & Emergency Donor Finder",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
